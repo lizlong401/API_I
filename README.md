@@ -2,6 +2,8 @@
 
 Backend nodes for YouTube search and creative prompt expansion with Gemini.
 
+![HexNode React graph playground](Playground.png)
+
 | Node | Input | Output |
 |---|---|---|
 | YouTube | Search text | JSON containing video metadata and links, or `{ "video": null }`. |
